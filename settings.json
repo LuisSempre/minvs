@@ -1,0 +1,54 @@
+{
+  "telemetry.telemetryLevel": "off",
+  "update.mode": "manual",
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Roboto Mono",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 32,
+  "editor.letterSpacing": -0.75,
+  "editor.cursorStyle": "block",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.startupEditor": "none",
+  "explorer.confirmDelete": false,
+  "findJump.letterBackground": "#436baa",
+  // Minimal Code
+  "editor.bracketPairColorization.enabled": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.matchBrackets": "never",
+  "editor.minimap.enabled": false,
+  "editor.occurrencesHighlight": false,
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.selectionHighlight": false,
+  "editor.guides.indentation": false,
+  "window.menuBarVisibility": "toggle",
+  "zenMode.fullScreen": false,
+  "zenMode.hideLineNumbers": false,
+  "customizeUI.stylesheet": {
+    ".decorationsOverviewRuler": "opacity: 0 !important;",
+    ".scroll-decoration": "opacity: 0 !important;",
+    ".editor-instance": "margin-top: 4rem !important;",
+    ".margin": "transform: translateX(-2rem) !important;",
+    ".title.show-file-icons": "display: none !important;"
+  },
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#0d1117",
+    "editorCursor.foreground": "#b3c7ff",
+    "editorGroup.border": "#00000000",
+    "editorPane.background": "#0d1117",
+    "editorGutter.background": "#0d1117",
+    "editorGroup.emptyBackground": "#0d1117"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "punctuation",
+        "settings": {
+          "foreground": "#8388aa"
+        }
+      }
+    ]
+  }
+}
